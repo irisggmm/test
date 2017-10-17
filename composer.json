@@ -1,0 +1,13 @@
+{
+    "name": "t-aquan/testcomposer",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irisggmm",
+            "email": "619595321@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
